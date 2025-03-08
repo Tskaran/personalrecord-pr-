@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Tskaran/personalrecord-pr-/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/Tskaran/personalrecord-pr-/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/Tskaran/personalrecord-pr-/tree/master/1827-invalid-tweets) |
+## Math
+|  |
+| ------- |
+| [0282-expression-add-operators](https://github.com/Tskaran/personalrecord-pr-/tree/master/0282-expression-add-operators) |
+## String
+|  |
+| ------- |
+| [0282-expression-add-operators](https://github.com/Tskaran/personalrecord-pr-/tree/master/0282-expression-add-operators) |
+## Backtracking
+|  |
+| ------- |
+| [0282-expression-add-operators](https://github.com/Tskaran/personalrecord-pr-/tree/master/0282-expression-add-operators) |
 <!---LeetCode Topics End-->
