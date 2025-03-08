@@ -16,13 +16,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Tskaran/personalrecord-pr-/tree/master/0224-basic-calculator) |
 | [0282-expression-add-operators](https://github.com/Tskaran/personalrecord-pr-/tree/master/0282-expression-add-operators) |
 ## String
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Tskaran/personalrecord-pr-/tree/master/0224-basic-calculator) |
 | [0282-expression-add-operators](https://github.com/Tskaran/personalrecord-pr-/tree/master/0282-expression-add-operators) |
 ## Backtracking
 |  |
 | ------- |
 | [0282-expression-add-operators](https://github.com/Tskaran/personalrecord-pr-/tree/master/0282-expression-add-operators) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Tskaran/personalrecord-pr-/tree/master/0224-basic-calculator) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Tskaran/personalrecord-pr-/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
