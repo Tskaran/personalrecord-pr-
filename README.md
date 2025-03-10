@@ -35,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Tskaran/personalrecord-pr-/tree/master/0224-basic-calculator) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Tskaran/personalrecord-pr-/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Tskaran/personalrecord-pr-/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
