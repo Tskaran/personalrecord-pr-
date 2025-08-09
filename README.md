@@ -39,9 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tskaran/personalrecord-pr-/tree/master/0001-two-sum) |
+| [1646-kth-missing-positive-number](https://github.com/Tskaran/personalrecord-pr-/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tskaran/personalrecord-pr-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tskaran/personalrecord-pr-/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [1646-kth-missing-positive-number](https://github.com/Tskaran/personalrecord-pr-/tree/master/1646-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
