@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Tskaran/personalrecord-pr-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0224-basic-calculator](https://github.com/Tskaran/personalrecord-pr-/tree/master/0224-basic-calculator) |
 | [0282-expression-add-operators](https://github.com/Tskaran/personalrecord-pr-/tree/master/0282-expression-add-operators) |
 ## Backtracking
@@ -45,8 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tskaran/personalrecord-pr-/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Tskaran/personalrecord-pr-/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Binary Search
 |  |
 | ------- |
 | [1646-kth-missing-positive-number](https://github.com/Tskaran/personalrecord-pr-/tree/master/1646-kth-missing-positive-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Tskaran/personalrecord-pr-/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
