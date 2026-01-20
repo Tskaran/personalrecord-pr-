@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tskaran/personalrecord-pr-/tree/master/0001-two-sum) |
+| [0209-minimum-size-subarray-sum](https://github.com/Tskaran/personalrecord-pr-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Tskaran/personalrecord-pr-/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Tskaran/personalrecord-pr-/tree/master/0643-maximum-average-subarray-i) |
 | [1646-kth-missing-positive-number](https://github.com/Tskaran/personalrecord-pr-/tree/master/1646-kth-missing-positive-number) |
@@ -55,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Tskaran/personalrecord-pr-/tree/master/0209-minimum-size-subarray-sum) |
 | [1646-kth-missing-positive-number](https://github.com/Tskaran/personalrecord-pr-/tree/master/1646-kth-missing-positive-number) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tskaran/personalrecord-pr-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Tskaran/personalrecord-pr-/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/Tskaran/personalrecord-pr-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Tskaran/personalrecord-pr-/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Tskaran/personalrecord-pr-/tree/master/0643-maximum-average-subarray-i) |
 ## Bit Manipulation
@@ -75,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Tskaran/personalrecord-pr-/tree/master/0187-repeated-dna-sequences) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Tskaran/personalrecord-pr-/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
